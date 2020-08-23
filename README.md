@@ -1,7 +1,7 @@
 # Human-Emotion-and-Gesture-Detector
 Understanding how to build a human emotion and gesture detector with Deep Learning from scratch.
 
-Check out these for a complete understanding of the code.
+Check out these articles for a complete understanding of the project and the code:
 
 https://towardsdatascience.com/human-emotion-and-gesture-detector-using-deep-learning-part-1-d0023008d0eb
 https://towardsdatascience.com/human-emotion-and-gesture-detector-using-deep-learning-part-2-471724f7a023
